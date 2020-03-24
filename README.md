@@ -1,4 +1,4 @@
-Esse projeto foi turbinado com with [Create React App](https://github.com/facebook/create-react-app).
+Esse projeto foi turbinado com [Create React App](https://github.com/facebook/create-react-app).
 
 ## JSHunt
 
